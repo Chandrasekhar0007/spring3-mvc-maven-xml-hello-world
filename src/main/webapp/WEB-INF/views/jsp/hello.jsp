@@ -39,15 +39,15 @@
  
 <div class="container">
 	 <div class="col-md-4">
-		<h2>Heading</h2>
-		<p>ABC</p>
+		<h2>Chandrasekhar B</h2>
+		<p>My_Name</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
 	</div>
     <div class="col-md-4">
-		<h2>Heading</h2>
-		<p>ABC</p>
+		<h2>Babi</h2>
+		<p>My_Nick_Name</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
